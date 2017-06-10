@@ -1,0 +1,34 @@
+html {
+	width: 100%;
+}
+
+body {
+/*	background-color: orange;*/
+/*	text-align: center;
+*/}
+
+.jumbotron{
+	text-align: center;
+	background-color: navy;
+	color: white;
+	margin: 0px auto;
+	/*padding: 20px;*/
+}
+
+form, #articles{
+	margin:40px;
+	border: 2px solid navy;
+	padding-left: 15px; 
+
+}
+
+.form-input{
+	width:95%;
+	text-align: center;
+}
+
+/*{
+	margin:40px;
+	border: 2px solid navy;
+	padding-left: 15px; 
+}*/
